@@ -1,0 +1,11 @@
+br\com\pedrohenrique\todolist\controller\MinhaPrimeiraController.class
+br\com\pedrohenrique\todolist\TodolistApplication.class
+br\com\pedrohenrique\todolist\errors\ExceptionHandlerController.class
+br\com\pedrohenrique\todolist\user\UserController.class
+br\com\pedrohenrique\todolist\user\UserModel.class
+br\com\pedrohenrique\todolist\task\ITaskRepository.class
+br\com\pedrohenrique\todolist\user\IUserRepository.class
+br\com\pedrohenrique\todolist\utils\Utils.class
+br\com\pedrohenrique\todolist\filter\FilterTaskAuth.class
+br\com\pedrohenrique\todolist\task\TaskModel.class
+br\com\pedrohenrique\todolist\task\TaskController.class
